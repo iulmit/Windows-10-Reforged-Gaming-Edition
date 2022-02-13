@@ -1,6 +1,7 @@
 # Windows-10-Reforged-Gaming-Edition
 
 ### Attention!
+
 #### The creator of this tutorial is not responsible if something will go wrong during install, but it is better than having Candy Crush and other bloat and telemetry hogging up system resources LOL!
 
 This tutorial is meant for enthusiasts, tinkerers and gamers who want the most out of their system and are not affraid to take the risk of learning some new stuff in the process, it is not meant for old laptops to work properly to play solitaire,for that you can use awesome Linux distributions out there like Linux Mint, Solus or MX Linux! links below:
@@ -16,11 +17,12 @@ Use at your own risk and may the force be with you!
 ### 1. Download all files from this repo.
 
 ### 2. Download and install Windows 10 2004 build using Rufus:
-* https://rufus.ie/:
+* https://rufus.ie/
 * https://www.microsoft.com/en-us/software-download/windows10
 * https://tb.rg-adguard.net/public.php
 
 ### 3. (Optional) Activate using a generic Windows key if it is not activated already.
+
 * GENERIC KMS KEYS FROM
 https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys:
 
@@ -43,14 +45,13 @@ https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys:
 * Set the taskbar to never combine and set the systemtray in notification settings to show all icons.
 
 ### 6. Download any Linux Ubuntu/Linux Mint will suffice for a Live USB Creation its only needed for one script, use Rufus for creating a bootable USB:
-https://rufus.ie/
-https://ubuntu.com/download/desktop
-https://www.linuxmint.com/download.php
+* https://rufus.ie/
+* https://ubuntu.com/download/desktop
+* https://www.linuxmint.com/download.php
 
 ### 7. Run the Windows_Reforged_GamingAME.bat as Administrator
 
 * Once opened, run Option (1) Pre-Amelioration from the main menu. This may take several minutes to complete.
-
 * The script will likely generate errors; this is fine, it is just unable to remove some of the built-in apps with PowerShell.
 
 ### 8. Install Linux and boot into Linux Mint or Ubuntu and mount your Windows drive.
@@ -111,11 +112,11 @@ https://github.com/securitywithoutborders/hardentools:
 * Click OK when finished
 * Disable UAC after that or the annoying prompts :(
 
-### 17. For Clean Driver install you will need(included in script):
+### 17. For Clean Driver install you will need (included in script):
 
 * https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
 
-### 18. FOR NVIDIA USERS Optimal NVIDIA Driver with Control Panel(not tied to Windows 10 Store)you need to select the Standard Version via advanced driver search and install it using DDU removing DCH!
+### 18. FOR NVIDIA USERS Optimal NVIDIA Driver with Control Panel (not tied to Windows 10 Store) you need to select the Standard Version via advanced driver search and install it using DDU removing DCH!
 
 #### Link To current Standard Studio Driver 461.40
 * https://www.nvidia.com/download/driverResults.aspx/170342/en-us
@@ -194,10 +195,10 @@ https://www.dropbox.com/sh/87qq1i6ozorktr7/AABGZFMcSnBTXw8StzqVyepya?dl=0
 #### Check out the AMEliorated project that inspired this Windows Reforged project,the only difference we used different approaches and builds! 
 https://ameliorated.info/documentation.html#install
 
-#### Thanks!
+### Thanks!
+
 #### SilentGameplayZZ
 https://www.youtube.com/c/SilentGameplayZZ/
+
 #### Youtube video on how to:
 https://youtu.be/8EHdjS8D-fs
-
-
